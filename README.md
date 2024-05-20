@@ -8,6 +8,6 @@ Boa sorte e bom jogo! :)</p>
 
 <div align="center">
   
-![Captura de tela 2024-04-04 003628](https://github.com/VitorFeltrini/secret-number/assets/170122111/63499a1b-4f10-459e-8b79-6a180207b1ee) <center> Vitor Feltrini - Estudante de JS, HTML e CSS - [LinkedIn](https://www.linkedin.com/in/vitor-feltrini-0582b92b3/) </center>
+![Captura de tela 2024-04-04 003628](https://github.com/VitorFeltrini/secret-number/assets/170122111/63499a1b-4f10-459e-8b79-6a180207b1ee)<center>Vitor Feltrini - Estudante de JS, HTML e CSS</center>
 
 </div>
