@@ -5,4 +5,4 @@ Boa sorte e bom jogo! :)
 
 ![Captura de tela 2024-04-27 031013](https://github.com/VitorFeltrini/secret-number/assets/170122111/f25cf434-a3da-4849-a1da-d350d818ed8c) 
 
-Vitor Feltrini - Estudante de JS, HTML e CSS - [LinkedIn]: https://www.linkedin.com/in/vitor-feltrini-0582b92b3/
+Vitor Feltrini - Estudante de JS, HTML e CSS - [LinkedIn](https://www.linkedin.com/in/vitor-feltrini-0582b92b3/)
