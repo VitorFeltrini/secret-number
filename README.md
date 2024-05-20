@@ -1,8 +1,8 @@
 <h1 align="center"> Jogo do número secreto </h1>
-Jogo criado através do curso de lógica de programação da Alura.
-A ideia do jogo é adivinha um número de 1 a 50. O jogo mostra quantas tentativas houve e se o número selecionado é menor/maior que o número escolhido.
+*Jogo criado durante o curso de lógica de programação da Alura.*
+&nbsp;
+A ideia do jogo é adivinhar um número de 1 a 50. O jogo mostra quantas tentativas houve e se o número selecionado é menor/maior que o número escolhido.
 Boa sorte e bom jogo! :)
-
 
 <div align="center">
   
